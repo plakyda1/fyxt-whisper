@@ -31,6 +31,7 @@ npm install
 # Install FFmpeg (Required for snapshot extraction)
 # Mac (using brew)
 brew install ffmpeg
+[ffmpeg install info](https://phoenixnap.com/kb/ffmpeg-mac)
 
 # Ubuntu / Debian
 sudo apt update && sudo apt install ffmpeg
